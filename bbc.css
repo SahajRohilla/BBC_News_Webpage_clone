@@ -1,5 +1,5 @@
                #topbar{
-                   width: 1200px;
+                   width: 1100px;
                    margin:0 auto;
                    height: 40px;
                }
@@ -10,7 +10,7 @@
                }
                #logo{
                    margin-top: 8px;
-                   width: 100px;
+                   width: 90px;
                    float: left;
                    margin-right: 8px;
                }
@@ -21,13 +21,13 @@
                }
                .topbar-menu{
                    font-weight: bold;
-                   font-size: 90%;
+                   font-size: 80%;
                    padding:13px 15px 0 15px;
                    height: 26px;
                }
                
                #signinimage{
-                   margin: 8px 2px;
+                   margin: 6px 1px;
                    float: left
                }
                #signin-text{
@@ -76,7 +76,7 @@
                    height: 70px;
                }
                #menu-bar{
-                     width: 1200px;
+                     width: 980px;
                      margin:0 auto;
                }
                h1{
@@ -93,7 +93,7 @@
                    float: right;
                    width: 250px;
                    padding: 5px 5px 0 10px;
-                   margin: 5px 10px 0 0;
+                   margin: 5px 20px 0 0;
                }
                #local-news a{
                    color: white;
